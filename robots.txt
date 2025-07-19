@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.ipycf.com.ng/sitemap.xml
